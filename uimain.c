@@ -30,7 +30,7 @@ int main()
 	print_char_11x16(c);
       break;
     case 'a':
-      puts("You selected arrow:")
+      puts("You selected arrow:");
       print_arrow(5, 7);
       break;
     case 'q':
